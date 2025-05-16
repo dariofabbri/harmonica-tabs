@@ -4,7 +4,7 @@ category: Canto scout
 ---
 
 ```
-3 4     5   3  4  5  3    4 4  4-  5 5- 5  5  4  4-  4-
+3  4    5   3  4 5   3   4 4   4-  5 5- 5  5  4  4-  4-
 Signor, tra le tende schierati per salutar il dì che muor,
 
 3  4 5  3  4  5    3 4 4  4- 5 5-   5  5  4  4- 4-
