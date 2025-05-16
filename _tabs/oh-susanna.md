@@ -1,11 +1,12 @@
-# Oh Susanna
-
-## Popular folk song
+---
+title: Oh Susanna
+category: Popular folk song
+---
 
 ```
-4 4- 5  6   6 6- 6 5
+4 4- 5 6    6 6- 6 5
 I came from Alabama
-4   4- 5 5    4- 4  4-
+4    4- 5  5  4- 4  4-
 With my banjo on my knee 
 4 4-  5   6  6  6- 6 5
 I'm goin' to Lou'siana
