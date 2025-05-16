@@ -32,5 +32,6 @@ a:hover,
 a:link,
 a:active,
 a:visited {
-    color: inherit;
+    color: #6f43b6;
+    text-decoration: none;
 }
