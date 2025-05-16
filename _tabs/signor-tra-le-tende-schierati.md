@@ -1,6 +1,7 @@
-# Signor tra le tende schierati
-
-## Canto scout
+---
+title: Signor tra le tende schierati
+category: Canto scout
+---
 
 ```
 3 4     5   3  4  5  3    4 4  4-  5 5- 5  5  4  4-  4-
