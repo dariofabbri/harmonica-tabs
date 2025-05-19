@@ -4,16 +4,16 @@ category: Popular folk song
 ---
 
 ```
-6    7    8  8   8-   7   8-  7   6- 7
+6    7    8  8   -8   7   -8  7   -6 7
 From this valley they say you are going,
 
-6  7    8    7     8     9   9-   8     8-
+6  7    8    7    8      9    -9  8     -8
 we will miss your bright eyes and sweet smile,
 
-9   9-   8   8   8-  7  8-  8   9  9-
+9   -9   8   8   -8  7  -8  8   9  -9
 for they say you are taking the sunshine,
 
-6-   6-  6   7-     7   8-  8   8- 7
+-6   -6  6   -7     7   -8  8   -8 7
 that has brightened our pathway awhile.
 
 
