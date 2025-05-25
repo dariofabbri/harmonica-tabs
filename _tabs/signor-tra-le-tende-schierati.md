@@ -17,12 +17,12 @@ Ascolta Tu l'umil preghiera che d'aspro suol s'ode innalzar
 a Te cui mancava alla sera un tetto ancor per riposar.
 
 
-5   4   5   4  -4   5 -5   5  -4 -4 5 -5 5   -5 -6 6  -5 5
+5   4   5   4  -4   5 -5   5  -4 -4 5 -5 -5    -6 6   -5 5
 Chiedon sol tutti i nostri cuori a Te sempre e meglio servir.
 
 6 5 6   5   6   5   6    5 5    5 -5 6 -6
 Genufletton qui nel pian i Tuoi esploratori:
 
-4  -4  5    6 -5 5 -5  4 -4
+4  -4  5    6 -5 5 -5  -4 4
 Tu dal ciel benedici o Signor.
 ```
