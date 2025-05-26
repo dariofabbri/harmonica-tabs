@@ -1,5 +1,5 @@
 ---
-title: Blowing in the wind
+title: Blowin' in the wind
 category: Folk
 author: Bob Dylan
 ---
