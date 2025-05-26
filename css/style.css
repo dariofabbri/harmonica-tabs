@@ -17,15 +17,15 @@ h1 {
     color: #5f34a3;
 }
 
-h2.category {
+h2 {
   font-size: inherit;
   font-weight: normal;
-  font-style: italic;
+  margin: 0;
+  line-height: 1.5em;
 }
 
-h2.author {
-  font-size: inherit;
-  font-weight: normal;
+h2.category {
+  font-style: italic;
 }
 
 section.tab {
