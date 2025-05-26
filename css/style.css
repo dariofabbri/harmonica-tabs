@@ -17,11 +17,19 @@ h1 {
     color: #5f34a3;
 }
 
-h2 {
+h2.category {
   font-size: inherit;
   font-weight: normal;
   font-style: italic;
-  padding-bottom: 1.5em;
+}
+
+h2.author {
+  font-size: inherit;
+  font-weight: normal;
+}
+
+section.tab {
+  padding-top: 1.5em;
 }
 
 section.list p {
